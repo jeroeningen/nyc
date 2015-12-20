@@ -21,6 +21,7 @@ class Person
   end
 end
 
+puts "I will now create a new person and walk 2 steps..."
 person = Person.new # Instance of person created
 person.walk(2) # Walk 2 steps
 puts person.steps_walked # Return how many steps are walked as string
