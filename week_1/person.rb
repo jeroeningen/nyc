@@ -1,4 +1,4 @@
-# This class (very small program) to let a person walk
+# This class (very small program) is ment to let a person walk
 class Person
   # called when the object is initialized
   def initialize
